@@ -27,3 +27,4 @@ ultimate_guide_artifacts/
 
 # Ignore API Files
 pypi-api-token.txt
+.idea
