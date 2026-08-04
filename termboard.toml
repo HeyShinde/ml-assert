@@ -1,0 +1,5 @@
+[settings]
+env_command = ""
+theme = "textual-dark"
+ignore_global_tasks = true
+
